@@ -1,0 +1,32 @@
+# Hierarchical Clustering - Customer Segmentation
+
+## 📌 Project Overview
+This project applies Hierarchical Clustering to segment customers based on their annual income and spending score.
+
+## 📊 Dataset
+Mall Customers dataset containing:
+- Annual Income
+- Spending Score
+
+## ⚙️ Techniques Used
+- Data Preprocessing (Scaling)
+- Dendrogram Visualization
+- Agglomerative Clustering (Ward linkage)
+- Silhouette Score Evaluation
+
+## 📈 Results
+- Clear customer segments identified
+- Optimal clusters chosen using dendrogram
+- Silhouette score used for evaluation
+
+## 🧠 Key Insights
+- High income & high spending customers form premium segments
+- Low income & high spending indicate risky behavior groups
+- Clustering helps businesses target customers effectively
+
+## 🚀 Tools
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- SciPy
